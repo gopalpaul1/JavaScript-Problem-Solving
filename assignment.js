@@ -77,4 +77,5 @@ function megaFriend(array){
         }
     }
     return maximum;
+    
 }
