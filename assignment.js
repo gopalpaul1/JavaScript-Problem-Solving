@@ -17,7 +17,7 @@ function kilometerToMeter(num){
 
 
 
-// Buget Calculator with watch, phone and laptop...
+// Budget Calculator with watch, phone and laptop...
 
 function budgetCalculator(watch, phone, laptop) {
 
