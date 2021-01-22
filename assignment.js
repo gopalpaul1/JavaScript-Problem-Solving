@@ -1,5 +1,6 @@
 
 // Kilometer To Meter Conversion...
+
 function kilometerToMeter(num){
     
     var result = 0;
@@ -29,9 +30,8 @@ function budgetCalculator(watch, phone, laptop) {
     var total = watch + phone + laptop;
 
     return total;
-    
-}
 
+}
 
 
 
