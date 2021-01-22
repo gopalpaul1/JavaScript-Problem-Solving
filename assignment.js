@@ -64,7 +64,7 @@ function hotelCost(day){
 
 
 
-// Mega Friend name with Array Name...
+// Mega Friend with Array Name...
 
 function megaFriend(array){
 
