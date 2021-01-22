@@ -6,7 +6,7 @@ function kilometerToMeter(num){
     var result = 0;
 
     if(num <= 0){
-        return "distance cannot a negative";
+        return "distance cannot a negative"; 
     }
     else{
         result = num * 1000;
@@ -64,7 +64,7 @@ function hotelCost(day){
 
 
 
-// Mega Name with Array Name...
+// Mega Friend name with Array Name...
 
 function megaFriend(array){
 
