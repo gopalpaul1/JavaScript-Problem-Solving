@@ -27,9 +27,9 @@ function budgetCalculator(watch, phone, laptop) {
     phone = phone * 100;
     laptop = laptop * 500;
 
-    var total = watch + phone + laptop;
+    var totalBudget = watch + phone + laptop;
 
-    return total;
+    return totalBudget;
 
 }
 
